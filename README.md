@@ -3,11 +3,11 @@
 
 - **Login** to the system
 - **Deposit** money into their account
-- **Withdraw**money from their account
+- **Withdraw** money from their account
 - **Check account balance**
 
 **OOP Concepts Used**:
-    **Class and Objects**:
+    - **Class and Objects**:
 - The program is structured using a Account class, which represents a bank account.
 - An object of this class is created to perform operations like deposit, withdrawal, and balance checking.
 
